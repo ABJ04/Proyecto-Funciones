@@ -1,0 +1,58 @@
+/* ejercicio 2 */
+#ele1 h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* ejercicio 3 */
+.sect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.orden {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+#azul {
+  background-color: blue;
+}
+
+#rojo {
+  background-color: red;
+}
+
+#verde {
+  background-color: green;
+}
+
+#amarillo {
+  background-color: yellow;
+}
+
+/* ejercicio 3.1 */
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#key {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
